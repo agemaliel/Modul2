@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="fotomenu" type="id" />
+    <item name="namaMakanan" type="id" />
+    <item name="hargamakanan" type="id" />
+</resources>
